@@ -1,3 +1,7 @@
+The deployed version of broodl is https://broodly.netlify.app/
+
+
+
 DEMO DATA
 
 {
@@ -9,3 +13,4 @@ DEMO DATA
         }
     }
 }
+
